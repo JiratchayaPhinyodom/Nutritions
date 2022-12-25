@@ -1,5 +1,3 @@
-##Project Food Nutrition
-
 ## Description What the application does.Consider including a screen-shot and a link to your demonstration video.
 ![](Screen.png)
 In this project, an application that collects more than 40,000 food items, users can see how many nutrients each food has. 
